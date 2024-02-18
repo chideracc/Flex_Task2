@@ -1,0 +1,103 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    justify-content: center;
+    
+
+}
+
+.nav{
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+}
+
+.nav a {
+    font-size: 25px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 30px;
+}
+
+
+.nav a button {
+    background-color: blue;
+    height: 50px;
+    width: 130px;
+    border-radius: 50px;
+    align-items: center;
+    margin: none;
+    font-size: 15px;
+    padding: 15px;
+    border-style: none;
+}
+
+
+.img2 {
+    justify-items: right;
+    padding-right: 100px;
+    
+}
+
+.container2 {
+    display: flex; 
+    justify-content: space-between;
+  
+
+}
+
+.sub-container {
+    padding-left: 300px;
+    padding-top: 90px;
+    font-size: larger;
+    width: 70%;
+
+}
+
+/* button css properties */
+.free {
+    background-color: blue;
+    height: 40px;
+    width: 180px;
+    border-radius: 10px;
+    align-items: center;
+    margin: none;
+    font-size: 10px;
+    padding: 15px;
+    border-style: none;
+    text-align: center;
+}
+.img3 {
+    padding-left: ;
+}
+
+.Sliding_blue {
+    background-color: blue;
+    height: 500%;
+    padding-left: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* second button on blue background */
+.free2 {
+
+    background-color: rgb(45, 144, 168);
+    color: aliceblue;
+    height: 20px;
+    width: 180px;
+    border-radius: 10px;
+    align-items: center;
+    margin: none;
+    font-size: 10px;
+    padding: 7px;
+    border-style: none;
+    text-align: center;
+}
+
+.sub-container2 {
+    justify-content: space-between;
+}
